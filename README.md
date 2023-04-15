@@ -1,7 +1,7 @@
 # DialogsAB_JS
 JS (iesācējiem) kursa elektroniskā klade  
 
-# Geoinzenieris
+# Geoinzenieris 0000
 ## Geoinzenieris
 ### Geoinzenieris
 ***Ģeodēziskie darbi inženierbūvju, ēku, inženiertīklu būvniecībā ir neatņemama būvniecības procesa daļa. Sertificēts mērnieks nodrošina ģeodēzisko pamatojumu būvobjektā, pamatasu nospraušanu, ģeodēziskā tīkla ierīkošanu un kontroli visa būvniecības procesa gaitā un arī pēc tā. Mērnieks nodrošina kontroli par būvniecības precizitāti, atbilstoši projekta prasībām, un veic izpildmērijumus, monitoringu.***  
