@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+    function myFunction() {
+      document.getElementById("demo").innerHTML = "Paragraph changed.";
+    }
+    </script>
+    </head>
+
+  <body>
+    <script>
+        console.log("Pirmā izruka no body elementa.");
+        </script>
+    
+    <h2>My First JavaScript</h2>
+
+    <button
+      type="button"
+      onclick="document.getElementById('demo').innerHTML = Date()"
+    >
+      Click me to display Date and Time.
+    </button>
+
+    <p id="demo"></p>
+
+    <p id="demo1">A Paragraph.</p>
+
+    <button type="button" onclick="myFunction()">Try it</button>
+
+    <p>This example links to "myScript.js".</p>
+    <p>(myFunction is stored in "myScript.js")</p>
+
+    <script src="JS/js_script"></script>
+
+    <script>
+        console.log("Pirmā izruka no body elementa.");
+        </script>
+  </body>
+</html>
